@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+.titulo{
+  font-weight: 800;
+  font-size:20pt ;
+}
+body {
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.products {
+  font-weight: 300;
+  color: black;
+}
+.products hr {
+  color: #707070a0;
+  margin: 7px;
+}
+.card-title {
+  font-size: 20pt;
+}
+.card-text {
+  font-size: 16pt;
+  color: #707070;
+}
+.lugar {
+  font-size: 16pt;
+  color: #707070;
+}
+.precio-normal {
+  font-size: 16pt;
+  color: #707070;
+}
+.precio {
+  color: #28a745;
+  font-weight: 600;
+  font-size: 20pt;
+}
+.footer-titulo {
+  color: black;
+  font-size: 20pt;
+  font-weight: 800;
+}
+.subscribe{
+  font-weight: 500;
+  font-size: 21pt;
+}
+.derechos {
+  color: black;
+  font-size: 16pt;
+}
